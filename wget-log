@@ -1,0 +1,16 @@
+--2024-10-18 21:43:17--  https://www.dropbox.com/scl/fi/il1epf9vvexq4t39h9371/parse.py?rlkey=krxhxrvn0j9vy5p2h9q6vqxgt
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.70.18, 2620:100:6026:18::a27d:4612
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.70.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc2bee7cbd4f7391c457e459b690.dl.dropboxusercontent.com/cd/0/inline/Ccv3z-lNsAa_JGF7b0aBokYqFQSodbub0Mmvw1o6VqYCfOZst0z8lZhq8AYR8rAA6ueEozzW2W6K8KK4pfVh_9ps6RCPxhZ7sGpcj9ILvr7Pu6qSmoJx2IWiU31cg-syE0Q/file# [following]
+--2024-10-18 21:43:18--  https://uc2bee7cbd4f7391c457e459b690.dl.dropboxusercontent.com/cd/0/inline/Ccv3z-lNsAa_JGF7b0aBokYqFQSodbub0Mmvw1o6VqYCfOZst0z8lZhq8AYR8rAA6ueEozzW2W6K8KK4pfVh_9ps6RCPxhZ7sGpcj9ILvr7Pu6qSmoJx2IWiU31cg-syE0Q/file
+Resolving uc2bee7cbd4f7391c457e459b690.dl.dropboxusercontent.com (uc2bee7cbd4f7391c457e459b690.dl.dropboxusercontent.com)... 162.125.70.15, 2620:100:6026:15::a27d:460f
+Connecting to uc2bee7cbd4f7391c457e459b690.dl.dropboxusercontent.com (uc2bee7cbd4f7391c457e459b690.dl.dropboxusercontent.com)|162.125.70.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 785 [text/plain]
+Saving to: ‘parse.py?rlkey=krxhxrvn0j9vy5p2h9q6vqxgt’
+
+               parse.py?rlkey   0%[                                                  ]       0  --.-KB/s               parse.py?rlkey=krxhxrvn0j9vy5 100%[=================================================>]     785  --.-KB/s    in 0s      
+
+2024-10-18 21:43:19 (132 MB/s) - ‘parse.py?rlkey=krxhxrvn0j9vy5p2h9q6vqxgt’ saved [785/785]
+
